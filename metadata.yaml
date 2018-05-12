@@ -1,0 +1,27 @@
+_repo: The-Mystic-Mid-RegionThe-Deserts-of-the-Southwest_42361
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42361-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Burdick, Arthur J. (Arthur Jerome)
+    birthdate: 1858
+    gutenberg_agent_id: '41641'
+    url: http://www.gutenberg.org/2009/agents/41641
+description: ''
+gutenberg_issued: '2013-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42361'
+  lccn: '04011511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southwest, New -- Description and travel'
+- !lcc 'F786'
+- !lcsh 'Deserts'
+title: 'The Mystic Mid-Region: The Deserts of the Southwest'
+url: http://www.gutenberg.org/ebooks/42361
