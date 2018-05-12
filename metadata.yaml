@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41641'
     url: http://www.gutenberg.org/2009/agents/41641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42361#The-Mystic-Mid-RegionThe-Deserts-of-the-Southwest
 gutenberg_issued: '2013-03-18'
 gutenberg_type: Text
 identifiers:
